@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-5c79c": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-5c79c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-5c79c"
+  }
+}
